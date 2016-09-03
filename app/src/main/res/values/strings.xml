@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Alphabeti</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_letter_choice">letter_choice</string>
+    <string name="title_activity_letter_a">letter_a</string>
+    <string name="title_activity_letter_b">letter_b</string>
+    <string name="title_activity_letter_c">letter_c</string>
+    <string name="title_activity_letter_d">letter_d</string>
+    <string name="title_activity_letter_e">letter_e</string>
+    <string name="title_activity_letter_f">letter_f</string>
+    <string name="title_activity_letter_g">letter_g</string>
+    <string name="title_activity_letter_h">letter_h</string>
+    <string name="title_activity_letter_i">letter_i</string>
+    <string name="title_activity_letter_j">letter_j</string>
+    <string name="title_activity_letter_k">letter_k</string>
+    <string name="title_activity_letter_l">letter_l</string>
+    <string name="title_activity_letter_m">letter_m</string>
+    <string name="title_activity_letter_n">letter_n</string>
+    <string name="title_activity_letter_o">letter_o</string>
+    <string name="title_activity_letter_p">letter_p</string>
+    <string name="title_activity_letter_q">letter_q</string>
+    <string name="title_activity_letter_r">letter_r</string>
+    <string name="title_activity_letter_s">letter_s</string>
+    <string name="title_activity_letter_t">letter_t</string>
+    <string name="title_activity_letter_u">letter_u</string>
+    <string name="title_activity_letter_v">letter_v</string>
+    <string name="title_activity_letter_w">letter_w</string>
+    <string name="title_activity_letter_x">letter_x</string>
+    <string name="title_activity_letter_y">letter_y</string>
+    <string name="title_activity_letter_z">letter_z</string>
+
+    <string-array name="letter_o_animal">
+        <item> Select </item>
+        <item> Moose </item>
+        <item> Red Fox </item>
+        <item> Beaver </item>
+        <item> Polar Bear </item>
+        <item> Sea Otter </item>
+        <item> White-tailed deer </item>
+    </string-array>
+
+    <string-array name="letter_o_provinces">
+        <item> Select </item>
+        <item> 8 </item>
+        <item> 6 </item>
+        <item> 10</item>
+        <item> 13</item>
+
+    </string-array>
+
+    <string-array name="beginnin_level">
+        <item> Level </item>
+        <item> 1 </item>
+
+    </string-array>
+
+    <string-array name="beginning_subject">
+        <item> Subject </item>
+        <item> Geography </item>
+    </string-array>
+
+    <string name="title_activity_end">end</string>
+    <string name="title_activity_alphabeti">Alphabeti</string>
+
+    <!-- ads -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.beckhaml.alphabet">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".Alphabeti"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".letter_a"
+            android:label="@string/title_activity_letter_a"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_b"
+            android:label="@string/title_activity_letter_b"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_c"
+            android:label="@string/title_activity_letter_c"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_d"
+            android:label="@string/title_activity_letter_d"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_e"
+            android:label="@string/title_activity_letter_e"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_f"
+            android:label="@string/title_activity_letter_f"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_g"
+            android:label="@string/title_activity_letter_g"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_h"
+            android:label="@string/title_activity_letter_h"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_i"
+            android:label="@string/title_activity_letter_i"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_j"
+            android:label="@string/title_activity_letter_j"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_k"
+            android:label="@string/title_activity_letter_k"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_l"
+            android:label="@string/title_activity_letter_l"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_m"
+            android:label="@string/title_activity_letter_m"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_n"
+            android:label="@string/title_activity_letter_n"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_o"
+            android:label="@string/title_activity_letter_o"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_p"
+            android:label="@string/title_activity_letter_p"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_q"
+            android:label="@string/title_activity_letter_q"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_r"
+            android:label="@string/title_activity_letter_r"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_s"
+            android:label="@string/title_activity_letter_s"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_t"
+            android:label="@string/title_activity_letter_t"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_u"
+            android:label="@string/title_activity_letter_u"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_v"
+            android:label="@string/title_activity_letter_v"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_w"
+            android:label="@string/title_activity_letter_w"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_x"
+            android:label="@string/title_activity_letter_x"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_y"
+            android:label="@string/title_activity_letter_y"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".letter_z"
+            android:label="@string/title_activity_letter_z"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".end"
+            android:label="@string/title_activity_end"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.beckhaml.alphabet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Alphabeti"
+            android:label="@string/title_activity_alphabeti"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
